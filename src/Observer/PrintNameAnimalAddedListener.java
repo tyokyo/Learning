@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public class PrintNameAnimalAddedListener implements AnimalAddedListener {
 	public void updateAnimalAdded (Animal animal) {
 		// Print the name of the newly added animal

@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public class CountingAnimalAddedListener implements AnimalAddedListener {
 	private static int animalsAddedCount = 0;
 	@Override

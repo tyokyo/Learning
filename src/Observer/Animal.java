@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public class Animal {
 	private String name;
 	public Animal (String name) {

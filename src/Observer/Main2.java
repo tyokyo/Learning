@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public class Main2 {
 	public static void main (String[] args) {
 		// Create the zoo to store animals

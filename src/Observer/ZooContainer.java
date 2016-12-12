@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public class ZooContainer implements AnimalAddedListener {
 	private Zoo zoo = new Zoo();
 	public ZooContainer () {

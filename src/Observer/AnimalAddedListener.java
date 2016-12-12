@@ -1,4 +1,4 @@
-package watch;
+package Observer;
 public interface AnimalAddedListener {
 	public void onAnimalAdded (Animal animal);
 
