@@ -18,9 +18,4 @@ public class ZooContainer implements AnimalAddedListener {
 		// Add an animal notify the innerally notified listener
 		zooContainer.getZoo().addAnimal(new Animal("Tiger"));
 	}
-	@Override
-	public void onAnimalAdded(Animal animal) {
-		// TODO Auto-generated method stub
-
-	}
 }
