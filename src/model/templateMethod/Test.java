@@ -7,8 +7,8 @@ package model.templateMethod;
 public class Test  {
     public static void main(String[] args) {
         // You should change the path of "test.txt" in your local machine
-        String fileName = "d:\\javaproject\\TemplateMethod\\src\\test.txt";
-        String url = "http://www.the9.com/main.htm";
+        String fileName = "src\\model\\templateMethod\\test.txt";
+        String url = "http://www.baidu.com";
         
         AbstractRead fileRead = new ReadFile();
         AbstractRead htmlRead = new ReadHtml();
