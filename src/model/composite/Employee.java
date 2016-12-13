@@ -2,7 +2,6 @@ package model.composite;
 
 
 /**
-
  *  A Component with some common function implementation
  *  You can abstract it.
  */
