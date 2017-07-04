@@ -1,4 +1,4 @@
-package model.interpreter.mypackage;
+package model.interpreter;
 
 import model.interpreter.Context;
 

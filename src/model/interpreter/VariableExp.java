@@ -5,8 +5,6 @@ package model.interpreter;
  */
 import java.util.*;
 
-import model.interpreter.mypackage.BooleanExp;
-
 public class VariableExp implements BooleanExp {
     private String name;
     

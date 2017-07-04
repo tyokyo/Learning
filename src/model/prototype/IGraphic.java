@@ -1,4 +1,4 @@
-package model.prototype.mypackage;
+package model.prototype;
 
 
 /*

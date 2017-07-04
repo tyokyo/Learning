@@ -1,8 +1,5 @@
 package model.prototype;
 
-import model.prototype.mypackage.Graphic;
-
-
 /*
  *  A concrete prototype to draw a line
  */

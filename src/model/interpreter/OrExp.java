@@ -1,7 +1,4 @@
 package model.interpreter;
-
-import model.interpreter.mypackage.BooleanExp;
-
 /**
  *  A NonterminalExpression
  */

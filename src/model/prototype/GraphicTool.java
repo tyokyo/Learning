@@ -1,13 +1,10 @@
 package model.prototype;
 
-
 /*
  *  As  a Test Client to test our pattern  
  */
 import java.util.*;
 import java.lang.*;
-
-import model.prototype.mypackage.Graphic;
 
 public class GraphicTool  {
     public GraphicTool() {

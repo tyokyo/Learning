@@ -5,7 +5,6 @@ package model.interpreter;
 import java.io.*;
 import java.util.*;
 
-import model.interpreter.mypackage.BooleanExp;
 
 public class Test  {
     public static void main(String[] args) {
