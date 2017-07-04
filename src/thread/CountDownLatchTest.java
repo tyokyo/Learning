@@ -16,7 +16,7 @@ public class CountDownLatchTest {
 
         // 十名选手 
         final ExecutorService exec = Executors.newFixedThreadPool(10);  
-
+        
         for (int index = 0; index < 10; index++) {
             final int NO = index + 1;  
             Runnable run = new Runnable() {
