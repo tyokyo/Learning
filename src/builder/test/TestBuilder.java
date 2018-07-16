@@ -16,6 +16,7 @@ public class TestBuilder {
 		ComputerBuilder lenoveComputerBuilder = new LenoveComputerBuilder();    
 		ComputerBuilder hpComputerBuilder = new HPComputerBuilder();    
 		Director director;    
+		
 		director = new Director(lenoveComputerBuilder);    
 		lenoveComputer=director.construct();    
 		director = new Director(hpComputerBuilder);    
